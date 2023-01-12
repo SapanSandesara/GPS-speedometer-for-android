@@ -8,3 +8,6 @@ Analog speed meter.
 View Trip data like date and distance travelled.  
 Daily notifications.  
 Widget to display distance travelled.  
+
+
+https://youtube.com/shorts/RZRvIlEiAac?feature=share
